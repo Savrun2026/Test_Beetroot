@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: aliceblue;
+    color:black;
+
+}
+
+#header {
+    background-color: rgb(9, 55, 238) ;
+    color: white;
+    padding: 24px 32px;
+}
+
+input {
+    padding: 8px; 
+    width: 100%;
+    max-width: 320px;
+    box-sizing: border-box;
+}
+
+.button {
+    margin-top: 16px;
+    padding: 10px 20px; 
+     background-color: darkolivegreen;
+     color: white;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+}
